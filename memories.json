@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mem-uuid-101",
+    "domain_id": "fiscal",
+    "type": "business_rule",
+    "text_content": "Notas fiscais de serviço (NFS-e) devem ter o código de serviço validado contra a lista municipal."
+  },
+  {
+    "id": "mem-uuid-202",
+    "domain_id": "fiscal",
+    "type": "business_rule",
+    "text_content": "Para produtos com NCM iniciado em '8471', a empresa possui um regime especial de tributação de PIS/COFINS."
+  },
+  {
+    "id": "mem-uuid-303",
+    "domain_id": "fiscal",
+    "type": "business_rule",
+    "text_content": "O fornecedor 'Tecno Peças Ltda' frequentemente apresenta erros no cálculo do IPI na última semana do mês."
+  },
+  {
+    "id": "mem-uuid-456",
+    "domain_id": "fiscal",
+    "type": "business_rule",
+    "text_content": "Toda validação de ICMS-ST deve cruzar a informação com o Protocolo ICMS vigente."
+  },
+  {
+    "id": "mem-uuid-789",
+    "domain_id": "product_catalog",
+    "type": "business_rule",
+    "text_content": "O último código de notebook cadastrado foi 'NB-1098'. Novos códigos devem seguir a sequência."
+  }
+]
